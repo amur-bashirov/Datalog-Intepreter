@@ -1,0 +1,1 @@
+Designed a scanner that reads a sequence of characters from a text file send it to the interpreter to identifies datalog language tokens found in the file,  creates relations, change them according to the giving rules and outputs the result
